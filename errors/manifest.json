@@ -729,6 +729,10 @@
         {
           "title": "middleware-parse-user-agent",
           "path": "/errors/middleware-parse-user-agent.md"
+        },
+        {
+          "title": "next-head-key",
+          "path": "/errors/next-head-key.md"
         }
       ]
     }
